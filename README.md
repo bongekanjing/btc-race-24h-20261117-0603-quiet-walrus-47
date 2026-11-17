@@ -1,5 +1,11 @@
 # Dip-Buy BTC Bot — btc-race-24h-20261117-0603
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/bongekanjing/btc-race-24h-20261117-0603-quiet-walrus-47/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/bongekanjing/btc-race-24h-20261117-0603-quiet-walrus-47/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
+Entry for the [make.fun BTC race bounty](https://make.fun/bounty/btc-race-24h-20261117-0603).
+
 A trading bot for the make.fun BTC race: it trades Coinbase Wrapped BTC
 (cbBTC) against USDC, minute by minute, in a replay of on-chain prices.
 
